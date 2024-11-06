@@ -36,7 +36,7 @@ Kibana credentials :
 - Username: elastic
 - Password: changeme%
 
-##Screenshots
+## Screenshots
 
 ![Terminal](images/d6.png)
 
